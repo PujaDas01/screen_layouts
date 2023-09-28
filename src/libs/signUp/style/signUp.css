@@ -1,0 +1,51 @@
+.signUp {
+    background-color: white;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding: 2%;
+    height: 90vh;
+}
+
+.sideLinkContainer {
+    flex: 1;
+}
+
+.sideLinkComponentWrapper {
+    background: rgb(171,34,195);
+    background: linear-gradient(0deg, rgba(171,34,195,1) 0%, rgba(212,45,253,0.8969712885154062) 100%);
+    width: 85%;
+    padding-bottom: 6rem;
+    height: 100%;
+}
+
+.sideLinkComponentWrapper div {
+    padding-left: 40px;
+    padding-top: 40px;
+    color: white;
+}
+
+.sideLinkComponentWrapper h3 {
+    padding: 5px 0;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.sideLinkComponentWrapper p {
+    font-size: 12px;
+    width: 40%;
+}
+
+.createAccountContainer {
+    flex: 1;
+}
+
+.accountContent {
+    padding-top: 3rem;
+}
+
+.accountContent h3 {
+    font-weight: 500;
+    font-size: 20px;
+}

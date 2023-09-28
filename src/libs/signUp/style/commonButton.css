@@ -1,0 +1,17 @@
+.buttonContainer {
+    padding-top: 15px;
+}
+
+.customButton {
+    cursor: pointer;
+    width: 60%;
+    padding: 12px 4px;
+    border-radius: 6px;
+    background: rgb(171,34,195);
+    background: linear-gradient(0deg, rgba(171,34,195,1) 0%, rgba(212,45,253,0.8969712885154062) 100%);
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}

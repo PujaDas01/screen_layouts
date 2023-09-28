@@ -1,0 +1,38 @@
+.navbar {
+    background-color: lightblue;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navWrapper {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding: 12px;
+    align-items: center;
+}
+
+.logoContainer {
+    flex: 1;
+    font-size: 25px;
+}
+
+.navbarLink {
+    flex: 10;
+    display: flex;
+    justify-content: flex-end;
+    gap: 2rem;
+}
+
+.navbarLink a {
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.navbarLink a:hover {
+    color: white;
+}

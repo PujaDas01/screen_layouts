@@ -1,0 +1,21 @@
+.inputContainer {
+    padding: 10px 0;
+}
+
+.label {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.accountInput {
+    outline: transparent;
+    border: 1px solid rgb(221, 220, 220);
+    border-radius: 6px;
+    padding: 12px 4px 12px 18px;
+    width: 60%;
+    margin-top: 3px;
+}
+
+.accountInput::placeholder {
+    font-size: 12px;
+}
